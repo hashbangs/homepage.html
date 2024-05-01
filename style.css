@@ -1,0 +1,48 @@
+body {
+  background-color:  #251b2d;
+}
+
+img {
+  max-width:  865px;
+  height: auto;
+  margin: 0px 2px;
+}
+
+h1  {
+  letter-spacing: 10px;
+  font-size:  40px;
+  text-align: center;
+  color:  #d61b63;
+}
+
+.column {
+  float:  left;
+  max-width:  100%;
+  background: rgba(255, 255,  255,  0.05);
+  margin-bottom:  10px;
+}
+
+h2 {
+  font-size:  20px;
+  margin: 12px;
+  font-weight:  bold;
+  text-indent:  12px;
+  text-transform: uppercase;
+  color:  white;
+}
+
+.button  {
+  background-color: #1746b5;
+  color:  white;
+  border: none;
+  padding:  12px 24px;
+  font-size:  14px;
+}
+
+.button1  {
+  font-style: italic;
+}
+
+button:hover  {
+  background-color:  transparent;
+}
