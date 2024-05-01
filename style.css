@@ -9,8 +9,9 @@ body {
 }
 
 h1  {
-  letter-spacing: 10px;
+  font-family:  "Noto Sans JP", sans-serif;
   font-size:  40px;
+  letter-spacing: 10px;
   text-align: center;
   color:  #d61b63;
 }
@@ -33,20 +34,22 @@ h1  {
 }
 
 h2 {
+  font-family:  monospace, sans-serif;
   font-size:  20px;
-  margin: 12px;
   font-weight:  bold;
+  margin: 12px;
   text-indent:  12px;
   text-transform: uppercase;
   color:  white;
 }
 
 .button  {
+  font-family:  monospace, sans-serif;
+  font-size:  14px;
   background-color: #1746b5;
   color:  white;
   border: none;
   padding:  12px 24px;
-  font-size:  14px;
 }
 
 .button1  {
