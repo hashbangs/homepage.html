@@ -2,11 +2,12 @@ body {
   background-color:  #251b2d;
 }
 
-img {
-  max-width:  865px;
-  height: auto;
-  margin: 0px 2px;
+.content  {
+  max-width:  870px;
+  margin: auto;
+  padding:  10px;
 }
+
 
 h1  {
   letter-spacing: 10px;
@@ -15,11 +16,13 @@ h1  {
   color:  #d61b63;
 }
 
+.row  {
+  display:  flex;
+  margin-bottom:  12px;
+}
+
 .column {
-  float:  left;
-  max-width:  100%;
   background: rgba(255, 255,  255,  0.05);
-  margin-bottom:  10px;
 }
 
 h2 {
@@ -46,3 +49,8 @@ h2 {
 button:hover  {
   background-color:  transparent;
 }
+
+img {
+  width:  867px;
+}
+
