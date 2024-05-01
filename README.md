@@ -1,2 +1,3 @@
 # homepage.html
-local homepage
+local browser homepage -- alpha version
+
